@@ -1,5 +1,9 @@
 ## About
-This repository contains the implementation of different machine learning algorithms such as linear regression, decision trees/forest, and deep learning along with other machine learning techniques.
+This repository contains personal notes (aka jupyter notebooks) regarding machine learning algorithms.
+In some cases, I implemented some algorithms from scratch for better understanding
 
-### Acknowledgment 
-Big thanks to the [mlcourse.ai](mlcourse.ai) website for providing materials and notebooks for learning.
+### Credits
+Some reference materials while i was learning:
+
+- [mlcourse.ai](mlcourse.ai): neat and relatively easy tutorials
+- [Youtube ML series](https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj) from famous MIPT. Material is presented in intuitive way.
